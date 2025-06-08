@@ -46,7 +46,7 @@ const Home = () => {
 				<IonHeader collapse="condense">
 					<IonToolbar>
 					<IonTitle size="large">
-						Categories
+						Categorias
 					</IonTitle>
 					</IonToolbar>
 				</IonHeader>
